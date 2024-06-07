@@ -37,10 +37,6 @@ main:
     mov x1, SCREEN_WIDTH         // X Size
     bl pixelAleatorios
 
-
-
-
-
 //COLOREAR CASTILLO
 
 //COLOREAR RECTANGULO PRINCIPAL
